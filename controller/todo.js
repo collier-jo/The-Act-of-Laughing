@@ -1,15 +1,15 @@
-const Todo = require('../models/todo');
+// const Todo = require('../models/todo');
 
-var HomeController = {
+// var HomeController = {
 
-    Index: function(req, res, next) {
-        Todo.find({}, 'action')
-            .then(data => 
-                res.json(data),
-            )
-            .catch(next)
-    },
-}
+//     Index: function(req, res, next) {
+//         Todo.find({}, 'action')
+//             .then(data => 
+//                 res.json(data),
+//             )
+//             .catch(next)
+//     },
+// }
   
-module.exports = HomeController;
+// module.exports = HomeController;
   
