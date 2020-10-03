@@ -11,7 +11,7 @@ const startServer = async() => {
 
     const port = process.env.PORT || 3000;
 
-    mongoose.connect(process.env.DB, { useNewUrlParser: true })
+    await mongoose.connect(process.env.DB, { useNewUrlParser: true })
     .then(()  => {
         console.log(`Database connected successfully`)
 

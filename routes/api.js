@@ -3,7 +3,7 @@ const router = express.Router();
 const Todo = require('../models/todo');
 const HomeController = require('../controller/todo');
 
-router.get('/todos', HomeController.Index);
+// router.get('/todos', HomeController.Index);
 
 // router.post('/todos', (req, res, next) => {
 //   if(req.body.action){
