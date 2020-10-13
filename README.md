@@ -1,9 +1,9 @@
 # The Act of Laughing 
 
-## Deployment Link
+## Deployment Link
 'The Act of Laughing is deployed [here]()
 
-## Description
+## Description
 
 A  laughter therapy app, built in MERN stack, hosted on Netlify and testedwith Jest. This app is designed to be a  light hearted respite from stress 
 
@@ -16,9 +16,9 @@ Features inc:
 ## Tech Stack
 React, HTML, CSS, Node (&Express), Jest, MongoDB and Netlify
 
-## Images 
+## Images 
 ## How to use
-## Install
+### Install
 1. Clone or Fork this repo to your local machine.
 2. Install Node Version Manager (NVM) and `nvm install 12.14.1`.
 3. Navigate into the project repo.
@@ -31,7 +31,7 @@ React, HTML, CSS, Node (&Express), Jest, MongoDB and Netlify
 7. `npm start` to start the server.
 8. Visit [http://localhost:3000](http://localhost:3000)
 
-## Testing
+### Testing
 
 The test server must be running for integrationt tests to pass.
 The test server runs on port `3030` at [http://localhost:3030](http://localhost:3030)
@@ -57,12 +57,12 @@ The test server runs on port `3030` at [http://localhost:3030](http://localhost:
     npm run test:integration
     ```
 
-## Dependancies 
+## Dependancies 
 
 
 ## Project Process 
 
-### Planning 
+### Planning 
 
 All planning is recored in [GitHub Wiki](). 
 
