@@ -36,7 +36,7 @@ React, HTML, CSS, Node (&Express), Jest, MongoDB and Netlify
 The test server must be running for integrationt tests to pass.
 The test server runs on port `3030` at [http://localhost:3030](http://localhost:3030)
 
-- Start test server (**Made on a Mac**):
+- Start test server (**Made on a Mac**)
   ```
   npm run start:test
   ```
